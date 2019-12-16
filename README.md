@@ -49,7 +49,7 @@ void test(string IN str, vector<int> REF vec, vector<int> OUT outvec)
 
 The case is to avoid conflicts with definitions inside std.
 
-Expanding according to the C ++ macro, `string IN` is actually `string const &`. After testing in xcode, it is the same as `const string &`. I see all types of` const string & `in the watch window.
+Expanding according to the C ++ macro, `string IN` is actually `string const &`. After testing in xcode, it is the same as `const string &`. I see all types of `const string &` in the watch window.
 
 If you are interested, you can try it in your own project
 
