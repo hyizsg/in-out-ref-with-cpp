@@ -12,13 +12,18 @@ using namespace std;
 
 #define REF    &
 
-
 void test(string IN str, vector<int> REF vec, vector<int> OUT outvec)
+    
 {
+
     // str = "error"; // 这行将编译失败
+    
     // TODO ...
+    
     // Do something...
+    
  }
+ 
 
 
 
