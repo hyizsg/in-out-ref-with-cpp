@@ -1,6 +1,8 @@
 # C++实现参数in、out、ref语义
 
 ```
+#include <string>
+#include <vector>
 using namespace std;
 
 #define IN      const&
